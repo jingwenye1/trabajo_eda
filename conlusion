@@ -1,0 +1,5 @@
+conclusion 
+
+la conclusion es que se ve que la la variable objetivo TenYearCHD está desbalanceada, ya que la mayoría de pacientes no desarrolla enfermedad coronaria a 10 años , se detectan valores nulos en varias columnas, especialmente en glucose, education y bmpeds, por lo que estas variables requieren tratamiento, na las variables numéricas, varias presentan asimetría y valores extremos, especialmente cigsperday, totalchol, sysbp, diabp y glucose
+
+El analisis bivariante sugiere age, sysbp, diabp, glucose, male y diabetes podrian estar asociadas a un mayor riesgo de desarrollar enfermedad coronaria , ademas, la matriz de correlacion confirma que age y sysbp , son de las variables numéricas más relacionadas con la target, aunque las correlaciones no son muy elevadas. 
